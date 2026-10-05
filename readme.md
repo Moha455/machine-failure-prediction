@@ -1,4 +1,6 @@
 ALLA MED
+direct link to the app
+https://machine-failure-prediction-2f2zfxvizasbeovcq6vyod.streamlit.app/
 # ⚙️ Machine Failure Prediction
 
 A machine learning project for predicting industrial machine failures using operational sensor data.
