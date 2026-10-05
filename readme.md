@@ -1,3 +1,4 @@
+ALLA MED
 # ⚙️ Machine Failure Prediction
 
 A machine learning project for predicting industrial machine failures using operational sensor data.
